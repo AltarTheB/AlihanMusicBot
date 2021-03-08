@@ -1,6 +1,6 @@
 {
     "name": "AlihanMusicBot",
-    "logo": "",
+    "logo": "https://www.youtube.com/",
     "description": "Grabs song from yt and sends it to telegram by @TamilBots",
     "env": {
         "API_ID": {
